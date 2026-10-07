@@ -1,0 +1,10 @@
+*.vvp
+a.out
+*.fst
+*.vcd
+!expected_output.vcd
+.venv/
+*.bkp
+*.dtmp
+*.zip
+__pycache__/
