@@ -14,8 +14,8 @@ In this lab you've learned the basics of number theory as it relates to addition
 ## Lab Questions
 
 ### 1 - How might you add more than two bits together?
-
+By using a full-adder we can add more than two bits together.
 ### 2 - What is the importance of the XOR gate in an adder?
-
+The xor gate allows us to incorporate a third input or carry out input.
 ### 3 - What is the largest number a two bit adder can handle? What happens when you go over?
-
+The largest is 6. If you go over the carry out will truncate your value, if your circuit doesn't capture the carry out bit.
